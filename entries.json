@@ -5,8 +5,8 @@
  "winners": 4,
  "prize_usd_each": 1000,
  "rng_method": "mulberry32-sha256",
- "total_wallets": 262,
- "total_tickets": 6440,
+ "total_wallets": 265,
+ "total_tickets": 6543,
  "entries": [
   {
    "wallet": "14PMNJKnN1VtpFd2kMqXLMwjmzRgNSCEwsGDLXvCaHNm",
@@ -299,6 +299,10 @@
   {
    "wallet": "5s9Hiyg6bFcn4FZx5BFKyQmvnZ9fouHUYpBDUrQMS9hS",
    "tickets": 20
+  },
+  {
+   "wallet": "5SNQJZ9kRrpDWUEksmqYg3hDs5psJPfDSvBrbaCtRMKy",
+   "tickets": 73
   },
   {
    "wallet": "5U7EAmKRHJ8njfNhuKoVZr4SmrhiPe2PGehEPmbJCFpM",
@@ -689,6 +693,10 @@
    "tickets": 20
   },
   {
+   "wallet": "CzguHiBp8LAdNg9qTQ63LRg3iua2Wo14Di8y8cJc6DDP",
+   "tickets": 10
+  },
+  {
    "wallet": "D2KbtZD7aiwd3CFt13U7VZdfw8iTd5GD3wHYtADjqzUh",
    "tickets": 10
   },
@@ -987,6 +995,10 @@
   {
    "wallet": "JBNXh7r8TfcBmHeeyxoLrzCq4o4CYjXXmBdU6JDmPCeu",
    "tickets": 10
+  },
+  {
+   "wallet": "JCCHjYkL1hM546GHxqqPM1bc7ych8ErLrLDiCivfAexy",
+   "tickets": 20
   },
   {
    "wallet": "kHej45Tt12dWyPUhY975L5zhSsDibgk1jrwvPXpBEZr",
