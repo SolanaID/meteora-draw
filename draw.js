@@ -2,15 +2,15 @@
 // Meteora × Solana ID grand-draw verifier.
 //
 //   node draw.js            → fetches the committed block from Solana mainnet
-//                             and prints the four winners
+//                             and prints the winner
 //   node draw.js <blockhash>→ recomputes winners from a given hash (audit)
 //
-// The four winners derive purely from the blockhash of the committed slot
-// over the frozen entries in entries.json. Same inputs, same winners, for
+// The winner derives purely from the blockhash of the committed slot
+// over the frozen entries in entries.json. Same inputs, same winner, for
 // everyone. Algorithm identical to the campaign backend
 // (mulberry32 seeded with the first 4 bytes of SHA-256(blockhash),
 // ticket-weighted pick without replacement) and to the on-page runner at
-// https://campaign.solana.id/meteora.
+// https://campaign.ecosystemcall.com/meteora.
 
 import { createHash } from "crypto";
 import { readFileSync } from "fs";
@@ -20,7 +20,7 @@ import { fileURLToPath } from "url";
 const DATA = JSON.parse(
   readFileSync(join(dirname(fileURLToPath(import.meta.url)), "entries.json"), "utf8"),
 );
-const COMMITTED_SLOT = DATA.committed_slot; // 437,169,000 — committed BEFORE campaign close
+const COMMITTED_SLOT = DATA.committed_slot; // committed before campaign close
 const MAINNET_GENESIS_HASH = "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdpKuc147dw2N9d";
 const RPC_ENDPOINTS = [
   "https://api.mainnet-beta.solana.com",
@@ -113,7 +113,7 @@ if (!blockhash) {
     source = found.rpc;
   } catch (e) {
     console.log(`Not yet: ${e.message}`);
-    console.log("The committed block lands Tuesday 2026-08-04 around 11:42 UTC. Run this again after that.");
+    console.log("The committed block lands Friday 2026-09-04 around 14:00 UTC. Run this again after that.");
     process.exit(0);
   }
 }
