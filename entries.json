@@ -1,276 +1,176 @@
 {
- "committed_slot": 444262900,
- "draw_time_utc": "2026-09-04T14:00:00Z",
- "campaign_end_utc": "2026-09-03T14:00:00Z",
- "winners": 1,
- "prize_usd_each": 1500,
- "rng_method": "mulberry32-sha256",
- "total_wallets": 66,
- "total_tickets": 1213,
- "entries": [
-  {
-   "wallet": "121M7G1PidmP9DEFnBRLJgzGvm3AcpYauMTegDCsVdVM",
-   "tickets": 3
-  },
-  {
-   "wallet": "2DxoMGxskZtQwtuJB4RnbSMm4V8WmKzGP8HmK2uCRM64",
-   "tickets": 17
-  },
-  {
-   "wallet": "2JzUVdwUFkrEAkK1XSALjHwuUtiaLpSMXp8XWtcBowQS",
-   "tickets": 4
-  },
-  {
-   "wallet": "2N7YSUs49J42f4GNw48j13a7zrPyTeYySeKm5c3M8dMn",
-   "tickets": 5
-  },
-  {
-   "wallet": "2V1XuTZA4fY3XKDM7vdwthNHRnhuVNHe63yGRcuNCcrb",
-   "tickets": 16
-  },
-  {
-   "wallet": "34ryzUhMyT3e3DHizrs5gRn3CZpdmLhzqdSsQ1rAYiXT",
-   "tickets": 5
-  },
-  {
-   "wallet": "352zmkRxxvZnfFLyeQ2mZUz9ywpdx3e2Vj1tZFsvtfQx",
-   "tickets": 2
-  },
-  {
-   "wallet": "3c5SqRMASGBeGYW8WXmkYGRgBBqZ3BrZoz5jEswua7Wp",
-   "tickets": 16
-  },
-  {
-   "wallet": "3ChiRdF8TTyD9RiXmLoynfmRQoJ6wxPTmdiTQ4amDPXF",
-   "tickets": 15
-  },
-  {
-   "wallet": "3sQHjHaYX2W2xK3cgdCvUg2VzXKuoXAwugdz9U1h2oS4",
-   "tickets": 10
-  },
-  {
-   "wallet": "3UDUZxB2NWpTRk3aMTLTqMYFaParcw2QEiYJ4JtXU8Ge",
-   "tickets": 33
-  },
-  {
-   "wallet": "4AxEcBJYzeyyTZVv1SpRvmx5gXdVLhRC1DJYjVBo7sjq",
-   "tickets": 17
-  },
-  {
-   "wallet": "4DQboVUtBR23aMY3Deha4VYKEW32G5ADeceiodwsUc9E",
-   "tickets": 5
-  },
-  {
-   "wallet": "4dSAo7E9u2UE887DousyYyVenWhrvmCMQrqbNjzV7xWn",
-   "tickets": 5
-  },
-  {
-   "wallet": "4GzrRDhoiyW19cphyKQkQyfwFXXS6MDseoFDXWZ5NW1T",
-   "tickets": 15
-  },
-  {
-   "wallet": "4H3kNcgm41KsCrzhwxchsnB5fvkcQshWnZkVz13zjomj",
-   "tickets": 5
-  },
-  {
-   "wallet": "4JsBNNdQxMtzgAraMZsPqcCZjwVFJywTsEmdXAa1FYX9",
-   "tickets": 30
-  },
-  {
-   "wallet": "4rqLCbbgTrFKoQjCyh4mRNyQzL9MmWLV2JaNvAp4EgLa",
-   "tickets": 100
-  },
-  {
-   "wallet": "6fXKiiMpgUhzXzC5WNz29inPtiXQo2NrA334Mk4xwBJW",
-   "tickets": 15
-  },
-  {
-   "wallet": "6G8LJnz7XyvdzdfXzYyBvLfptJbaRqiNEcMapmnnVHjG",
-   "tickets": 17
-  },
-  {
-   "wallet": "729x3UzoGuHo5xvVFFK5NPtoMAoqZFTWv1QxASBtzwoj",
-   "tickets": 31
-  },
-  {
-   "wallet": "7KHx2Uc5qsqz652eXbu8Qtabi5KLxWJLgxFzcaBzP32i",
-   "tickets": 103
-  },
-  {
-   "wallet": "7R5BypdCToxevpQMR9yCuNjPYw4LWZgD6J9MtYr28Hzr",
-   "tickets": 7
-  },
-  {
-   "wallet": "88FAau213CycGkRkPnkXZGkp8er3kuLBTU2QDTV5CNAp",
-   "tickets": 16
-  },
-  {
-   "wallet": "8vk6ESrbtMbX4emxvLDfwh1EM6BJMP1iXzQgDbwsa9JL",
-   "tickets": 15
-  },
-  {
-   "wallet": "91UsqkFpzbNKGSMyjvYqFyUDhrod6zvyZtF5Zrgxmdyn",
-   "tickets": 31
-  },
-  {
-   "wallet": "98TTV9evoQeZ5zasax9bW1REtRoiB6LgFLD5SVXWaECj",
-   "tickets": 30
-  },
-  {
-   "wallet": "9dkK2st7jNnzFXPRL6uX97pskiAQWmVtW3ypQ7rd6uw2",
-   "tickets": 6
-  },
-  {
-   "wallet": "9eFsC2rgXzmK59Liz7RD9j3qh3LQHQFXy8NoEAPFNcgZ",
-   "tickets": 15
-  },
-  {
-   "wallet": "9RZedwSy5a8hsvuc36EGPkrCYv4tmDksctBADWHvEBzt",
-   "tickets": 15
-  },
-  {
-   "wallet": "9xe7r8uU5hArUtQuoKpUs9SWhadS2Ws2w1AStSSTutQu",
-   "tickets": 20
-  },
-  {
-   "wallet": "9yUg5Gcs7SsPvvNvBb7dd5ddyaZR69MykFWE72GtfnKY",
-   "tickets": 18
-  },
-  {
-   "wallet": "AoN3bo4n72bo4x5FEcchPdENk7UdT7C1EoG4VDGWaxbn",
-   "tickets": 5
-  },
-  {
-   "wallet": "AQ5drkk5qeMMC96vYJrp5pF4o8vfnBcupXnhYZen8RCN",
-   "tickets": 82
-  },
-  {
-   "wallet": "AUdGhWKYJD4avsbeBvk4q3iyLGUG8H511UekijAY3tKu",
-   "tickets": 9
-  },
-  {
-   "wallet": "Axhr8Hjq4bNGFdFouncbbiSMxQyhFQN7cveEXUwK72ML",
-   "tickets": 30
-  },
-  {
-   "wallet": "BT2KGD66QwXZWjjFV2p5Ybk35zbJ9Q7GTUC78TY4s6Cp",
-   "tickets": 1
-  },
-  {
-   "wallet": "BTndhY4F37uSXEMXYiHRw4eNLTJxxxd2M6b6qmEhdyq2",
-   "tickets": 2
-  },
-  {
-   "wallet": "BUgiXDRNtyKTTMpY4euyvnw9mWk8qwk8rHkXwBQ8VFqE",
-   "tickets": 17
-  },
-  {
-   "wallet": "C5eYzBucY9wKp7SEbiAY3LXJXMK6aJiT9eXyVyRvDxPW",
-   "tickets": 15
-  },
-  {
-   "wallet": "C9Bck9wwwANsVz7jfmYGNmBma8xW4UShy9QRJ2tQ17BG",
-   "tickets": 15
-  },
-  {
-   "wallet": "CE7FnhtPW5exKqXAqE76ERFQ4yUJBeNdCDgV7zEHFiUG",
-   "tickets": 4
-  },
-  {
-   "wallet": "CeRz6GvVaPge2LHbBwwe2rDaYFdpVh6w7z5rUhm8j1Rs",
-   "tickets": 16
-  },
-  {
-   "wallet": "CKHSbBd2bjdXhFJE6DDXVxpcSNCZbVd9Y2JN8NN5j83S",
-   "tickets": 7
-  },
-  {
-   "wallet": "D5vCXBgJ13vnGH7eV5wXcQhzamdauWjvdiZpFYJmPYey",
-   "tickets": 16
-  },
-  {
-   "wallet": "DuWUUb6vKDR3vmNPHZEegmWa6nmEpwpqACJyXRGBys3R",
-   "tickets": 16
-  },
-  {
-   "wallet": "EqVdKAwF6uBYE138GmtARuui8E1w8TXPRyaBYrirmKpE",
-   "tickets": 15
-  },
-  {
-   "wallet": "F8HhMEJedYjY3thhih3XiCArvEWjWbx5cjJbiwQeoqvd",
-   "tickets": 16
-  },
-  {
-   "wallet": "FFhnqxM8KTqhdwVoTHNG7GM7QeksWXYxca1ks56JRSSc",
-   "tickets": 16
-  },
-  {
-   "wallet": "fNNzLUqVu6g7WGbnoxZpRF2nwG96LG9gxaWiqtRgnKY",
-   "tickets": 30
-  },
-  {
-   "wallet": "FtJH2tKZEj13CPogi7uNU2BPSkgAPMabBmb8CTr6c4X1",
-   "tickets": 30
-  },
-  {
-   "wallet": "GdbuEdnnwvjc5fCcPzNjse47ZQCEsdD2GEiEmjYjgVXD",
-   "tickets": 15
-  },
-  {
-   "wallet": "GdGUp6rnThFJZHJdmtRPGa2vwvckAS1CRh2XHUFwV42F",
-   "tickets": 15
-  },
-  {
-   "wallet": "GJMngkP86R2y1tKEWphiLkCCBxXtQbURzah7B7nrY3yo",
-   "tickets": 15
-  },
-  {
-   "wallet": "GKELxnW2LL2aHXe61pCoCFyko2UjZKKwRgHg8kCyGNzv",
-   "tickets": 15
-  },
-  {
-   "wallet": "Gs7jX79DfSExVNsAQ4mHG8eAR1WC4QoPHVwnXyddHx7D",
-   "tickets": 5
-  },
-  {
-   "wallet": "GscU98bhKXkJDhHtbod4jF1wkXVnRi1uvF1UB88KKZtj",
-   "tickets": 16
-  },
-  {
-   "wallet": "GUVxGt9M6iPoBz9k9PiTYS27YSrmkBVqJsbx7Snvazng",
-   "tickets": 31
-  },
-  {
-   "wallet": "H16MkLgAq7TQJgc6WDQBP8HzWZZ4kyk877s7UFzXB4ea",
-   "tickets": 15
-  },
-  {
-   "wallet": "HdqFpuZLdSqv1RG9LZmJMS72BMzuRjjbWGKAUKrWWE2Q",
-   "tickets": 15
-  },
-  {
-   "wallet": "Hh4MAFiBqNDL5NinXyvPDwc1zgXLxiRfzrF1Ebv7A7Zr",
-   "tickets": 15
-  },
-  {
-   "wallet": "Hig7wKtLDcCPfjbjWep6E2rFkupqckp59yAeHnXCvh4q",
-   "tickets": 5
-  },
-  {
-   "wallet": "JA1gupvLND3iDagXK8D9KLfdKKkqjQjhVfNMLVFaCBjG",
-   "tickets": 31
-  },
-  {
-   "wallet": "LU7PAcR6Wnwb9RHjCN9MuUNurz8yV6EhKA6FkaWr8jm",
-   "tickets": 15
-  },
-  {
-   "wallet": "SubitgYc33GCYvLeucgcaTMVqFrTht1TCsQJY38army",
-   "tickets": 6
-  },
-  {
-   "wallet": "vxERY8BDjabhkL1ZGtv7bsBFukeh6rK6auJjuQPf2Te",
-   "tickets": 15
-  }
- ]
+  "committed_slot": 452575800,
+  "draw_time_utc": "2026-10-02T10:48:35Z",
+  "campaign_end_utc": "2026-10-01T14:00:00Z",
+  "winners": 1,
+  "prize_usd_each": 1500,
+  "rng_method": "mulberry32-sha256",
+  "total_wallets": 41,
+  "total_tickets": 945,
+  "entries": [
+    {
+      "wallet": "moGgEd7TSCS5N8LURU2qaA9mQJBr2tj1bBRpzpRms9X",
+      "tickets": 104
+    },
+    {
+      "wallet": "4dBL2vRPWaJBPjWYHJ4Z3vRkZGqTYEQBntbN1ohgDQKm",
+      "tickets": 100
+    },
+    {
+      "wallet": "Fe1uxWjWFCDq6RLYmiP5K2ZEcQVkCiUKSnaD7kgEX99R",
+      "tickets": 80
+    },
+    {
+      "wallet": "Axhr8Hjq4bNGFdFouncbbiSMxQyhFQN7cveEXUwK72ML",
+      "tickets": 66
+    },
+    {
+      "wallet": "EtedrexBDgVSChjot785L3vfyKpggpuG8V1rq95pJA2K",
+      "tickets": 56
+    },
+    {
+      "wallet": "GUVxGt9M6iPoBz9k9PiTYS27YSrmkBVqJsbx7Snvazng",
+      "tickets": 38
+    },
+    {
+      "wallet": "729x3UzoGuHo5xvVFFK5NPtoMAoqZFTWv1QxASBtzwoj",
+      "tickets": 35
+    },
+    {
+      "wallet": "JA1gupvLND3iDagXK8D9KLfdKKkqjQjhVfNMLVFaCBjG",
+      "tickets": 34
+    },
+    {
+      "wallet": "7UmjN4kdeZaMiNWadkiu3nawJCWYnjbEhrqe4HC3UiPX",
+      "tickets": 33
+    },
+    {
+      "wallet": "5hPwf7PBQiWZYFCZ6fbSWDHpz7YWFvhW4LnrBqP98Y5z",
+      "tickets": 31
+    },
+    {
+      "wallet": "G7SgLjgQ3QCbF74WrXjhAjNqqXPv74LqZwtL6YwQSL7u",
+      "tickets": 31
+    },
+    {
+      "wallet": "4h8AFzW1p7UtCuF4fmLt4QFvZtN4ZiyYu6MnXgkpK7s5",
+      "tickets": 31
+    },
+    {
+      "wallet": "4JsBNNdQxMtzgAraMZsPqcCZjwVFJywTsEmdXAa1FYX9",
+      "tickets": 31
+    },
+    {
+      "wallet": "58itiGzYASW6F5AE5f9yPpioC3x2Rc9Rq2V92S2e6V7h",
+      "tickets": 19
+    },
+    {
+      "wallet": "HnSb328bvC9EtaaekoP4sNATWdt6ZuTdRZKPThAkfGzE",
+      "tickets": 19
+    },
+    {
+      "wallet": "7zuWbAzgHpERZcp5ir2qftmsfY1jsPG5NLeg7ZWvMKbn",
+      "tickets": 18
+    },
+    {
+      "wallet": "ESUjKjNeTRhooRPaahaBS8caEBdqVnYiHdUsSHwAJHm6",
+      "tickets": 16
+    },
+    {
+      "wallet": "9pxNFj7iBujnKvtH8fdsMVvovoPoe9PuQhKwbrF12n3j",
+      "tickets": 16
+    },
+    {
+      "wallet": "Avc91njy6bZ5jsHFETLretrZj3D84wDzsniLmpHdNEp",
+      "tickets": 16
+    },
+    {
+      "wallet": "2ubEMqhhLWDUbFzqnqQxrTK934bcHwrLe1cA6R4LsY2R",
+      "tickets": 16
+    },
+    {
+      "wallet": "5QkSo5K5DpZb54bJZj48E9CoHCVsQmMiDpvupB7RVZDH",
+      "tickets": 15
+    },
+    {
+      "wallet": "At8oyq1Q16srVY1jnDHw8ufCFNaKYnHz1aRFBZ1ups6n",
+      "tickets": 15
+    },
+    {
+      "wallet": "H2MAcNkR1NvprLBngzstMQVRFoCKZ1Lce9yoF3de5Y8r",
+      "tickets": 14
+    },
+    {
+      "wallet": "7HYH4RNh1gqu6ECa3vCmHVAJJXSLhNnT5ZUcqsPJ7iQw",
+      "tickets": 13
+    },
+    {
+      "wallet": "ADW5PTakBw9sqZD84jFV3Ddmxto2j7nVAfNuruXSxhXr",
+      "tickets": 9
+    },
+    {
+      "wallet": "eG18CoFTtydMNfEzjDb6Yt8rc1WfSHeHJGdxgUfVscE",
+      "tickets": 9
+    },
+    {
+      "wallet": "14PMNJKnN1VtpFd2kMqXLMwjmzRgNSCEwsGDLXvCaHNm",
+      "tickets": 8
+    },
+    {
+      "wallet": "841vfzkFGn2JYAhQa6W3buSkAehDk4sEfPT1ryNHrF15",
+      "tickets": 7
+    },
+    {
+      "wallet": "6mAZF5bTq8bRUBCQz4Ds5pXDA4HgtMKrZdw5ZBxC6xgq",
+      "tickets": 6
+    },
+    {
+      "wallet": "2HUoFGRDL1pSNt7JtAZHsnzFd73EKeRDR4kWtMk1ipNs",
+      "tickets": 6
+    },
+    {
+      "wallet": "BKefHPyQvydKdsfo6UTsJYQGgeDovUEfqTUvZPRerPey",
+      "tickets": 6
+    },
+    {
+      "wallet": "AamaaBLN9Y928eiXPATn4LgHSyX6N6hzaR3q1Vfvq1cH",
+      "tickets": 6
+    },
+    {
+      "wallet": "J3toNMKabJn6t5TXPqzW8MpHK3Zc7LTBNfGK6PhGdRwY",
+      "tickets": 6
+    },
+    {
+      "wallet": "6kMPVWSa5QKpKgcBCBmAKuX4hKFfWH2CVKnpMWcV21c1",
+      "tickets": 6
+    },
+    {
+      "wallet": "EbSAUPv3MmEtiV6EvvmwhzC6oC3yjDnxturutvpQKtg8",
+      "tickets": 6
+    },
+    {
+      "wallet": "HptU8iQUoBS6PxpyHwHCcWJeMUUbp2smpnVH5oPPYrPd",
+      "tickets": 5
+    },
+    {
+      "wallet": "8cKQGYiTVhM6XL5MGVyeh4L9ZYLHCBrq6KFm5JZJD1dd",
+      "tickets": 5
+    },
+    {
+      "wallet": "odaCMdZJXbCaDN3boj4GGwaTmASJsLChi8KjtLGhG3E",
+      "tickets": 5
+    },
+    {
+      "wallet": "BA1rHKYjM2PyjgCenj81WByCree6yeq61BGKMuR6CuTG",
+      "tickets": 4
+    },
+    {
+      "wallet": "AzPaWvBNXoG2Jp1oEaJQV2cZHWSViDeMiAV1bQtPWpCd",
+      "tickets": 3
+    },
+    {
+      "wallet": "J1H7kxsgfNpS3hhXqvxdJ3QvFBvPZty5oWuKsAtK1XK4",
+      "tickets": 1
+    }
+  ]
 }
